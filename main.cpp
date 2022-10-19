@@ -4,7 +4,7 @@ int main() {
 
 	printf("Hello GitHub\n");
 
-	printf("Hello Branch\n");
+	printf("Hello MasterBranch\n");
 
 
 	return 0;
