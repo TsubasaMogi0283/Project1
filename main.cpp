@@ -2,12 +2,12 @@
 
 int main() {
 
-	std::cout printf("Hello GitHub\n");
+	printf("Hello GitHub!!\n");
 
 
-	std::cout printf("Hello ConflictBranch\n");
+	printf("Hello ConflictBranch!!\n");
 
-	std::cout printf("Hello MasterBranch\n");
+	printf("Hello MasterBranch!!\n");
 
 
 
